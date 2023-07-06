@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deepak-prajapat
-- 👀 I’m interested in Mern Stack.
+- 👀 I’m interested in building websites.
 - 🌱 I’m currently learning tailwind,Angular
 - 📫 How to reach me deepak.prajapat@rudrainnovative.in
 
