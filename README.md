@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://ngecom.netlify.app/](https://ngecom.netlify.app/)
+- 👨‍💻 Some of my projects are:
+    -[https://fantasyx.vercel.app/](https://fantasyx.vercel.app/)
+    -[https://ngecom.netlify.app/](https://ngecom.netlify.app/)
 
 - 💬 Ask me about **js, nodejs, react ,next etc**
 
